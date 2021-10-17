@@ -1,7 +1,7 @@
 <h1>Cotizador de seguros.</h1>
 
 <p>App focalizada en front end.</p>
-<p>Se utilizó ReactJs para su elaboración y librerias como emotion para el uso de "styles components"</p>
+<p>Se utilizó ReactJs para su elaboración y librerias como emotion para el uso de "styled components"</p>
 <img src="./src/imgs/im1.png"/></hr>
 <img src="./src/imgs/img2.png"/>
 
